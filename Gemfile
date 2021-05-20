@@ -62,3 +62,9 @@ gem 'bootstrap-sass'
 gem 'rails-controller-testing'
 
 gem 'bcrypt'
+
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
